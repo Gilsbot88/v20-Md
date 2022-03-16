@@ -176,7 +176,7 @@ let handler = async (m, { conn, usedPrefix: _p, command }) => {
              {
              callButton: {
                displayText: '𝚙𝚑𝚘𝚗𝚎 𝚗𝚞𝚖𝚋𝚎𝚛',
-               PhoneNumber: '6288279268363'
+               PhoneNumber: '6283136890848'
              }
 
            },
@@ -196,7 +196,7 @@ let handler = async (m, { conn, usedPrefix: _p, command }) => {
            },
                {
              quickReplyButton: {
-               displayText: 'YukiBot 𝚝𝚎𝚊𝚖',
+               displayText: 'Gil bot 𝚝𝚎𝚊𝚖',
                id: '.tqto',
              }
            }]
